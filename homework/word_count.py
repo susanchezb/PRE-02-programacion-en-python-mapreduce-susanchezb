@@ -1,4 +1,4 @@
-"""Word count MapReduce helpers."""
+# Word count MapReduce helpers
 
 import glob
 import os
